@@ -34,7 +34,7 @@ To run the game on your local machine, you'll need to have Python and Jupyter No
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Guessing-Game.git
+    git clone https://github.com/FiyinfoluwaDav/Guessing-Game.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
